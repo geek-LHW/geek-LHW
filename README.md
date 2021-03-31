@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm geek-LHW,a programnmer focusing on backend</h1>
-<h3 align="center">I am looking for an internship on go development</h3>
+<h3 align="center">I am looking for an internship on Java development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=geek-lhw&label=Profile%20views&color=0e75b6&style=flat" alt="geek-lhw" /> </p>
 
