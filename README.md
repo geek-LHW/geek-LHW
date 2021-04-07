@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=geek-lhw" alt="geek-lhw" /></a> </p>
 
-- 🌱 I’m currently learning **Golang,Arithmetic,Compilation principle**
+- 🌱 I’m currently learning **Arithmetic,Compilation principle**
 
-- 💬 Ask me about **Arithmetic,Golang**
+- 💬 Ask me about **Arithmetic**
 
 - 📫 How to reach me **geekli2020@gmail.com**
 
